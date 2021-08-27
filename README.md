@@ -9,7 +9,7 @@
 
 To host on RaspberryPi-Based Dermascope device
 
-
+Integrated Raspberry Pi with GUI, dermoscopic camera, LCD screen and buttons as per approved design
 
   
 ## Documentation
